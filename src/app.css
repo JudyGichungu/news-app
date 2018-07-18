@@ -1,0 +1,31 @@
+body {
+  padding: 20px;
+  margin: 0;
+  font-family: Helvetica, 'Roboto', 'Segoe UI', Tahoma, sans-serif
+}
+
+
+input{
+	font-size: 15px;
+	width: 50%;
+	margin: 0 auto;
+	padding: 15px;
+
+}
+#app{
+	background:rgba(128,128,128,0.5);
+	margin:0 auto;
+	width: 70%;
+	border:30px solid maroon;
+
+
+
+}
+h3{
+	font-size: 30px;
+	margin-bottom: 10px;
+	font-weight: bold;
+	color: blue;
+	
+}
+
